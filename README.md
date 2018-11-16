@@ -34,3 +34,18 @@ int main()
     return 0;
 }
 
+#include <stdio.h>
+
+int main()
+{
+    int inteira = 10;
+    float decimal =10.50;
+    char letra = 'a';
+    
+    printf("%i\n",inteira);
+    printf("%f\n",decimal);
+    printf("%c\n", letra);
+    
+    return 0;
+}
+
