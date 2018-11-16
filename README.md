@@ -48,4 +48,16 @@ int main()
     
     return 0;
 }
+#include <stdio.h>
+
+int main()
+{
+    int numero1=10;
+    float numero2=4;
+    float resultado= numero1/numero2;
+     
+     printf("%f\n",resultado);
+    return 0;
+}
+
 
