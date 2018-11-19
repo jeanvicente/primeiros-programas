@@ -59,5 +59,19 @@ int main()
      printf("%f\n",resultado);
     return 0;
 }
+int main()
+{   int i=0;
+    while(i!=0)
+    {
+        printf("teste\n");
+    }
+    do{
+        printf("teste 2\n");
+    } while (i !=0);
+    return 0;
+}
+
+
+
 
 
